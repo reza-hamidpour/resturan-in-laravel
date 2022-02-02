@@ -120,7 +120,7 @@
 
                             <!-- Login/Register -->
                             <div class="login-area">
-                                <a href="#">ورود / عضویت</a>
+                                <a href="{{ route('login') }}">ورود / عضویت</a>
                             </div>
                         </div>
                         <!-- Nav End -->
